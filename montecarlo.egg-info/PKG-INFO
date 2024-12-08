@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: montecarlo
+Version: 1.0.0
+Summary: Monte Carlo simulation framework
+Home-page: https://github.com/ZahraaNouri/MonteCarloSimulation
+Author: Zahra Nouri
+Author-email: zahranouri@email.virginia.edu
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
